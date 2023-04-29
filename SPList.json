@@ -1,11 +1,11 @@
 {
-  'verb': 'createSPList',
-  'listName': 'Customer Tracking',
+  "verb": "createSPList",
+  "listName": "Customer Tracking",
   "templateType": 100,
   "subactions": [
     {
-      'verb': 'setDescription',
-      'description': 'List of Customers and Orders'
+      "verb": "setDescription",
+      "description": "List of Customers and Orders"
     }
   ]
 },
